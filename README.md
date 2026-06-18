@@ -25,3 +25,17 @@ Developed an interactive Power BI dashboard analyzing revenue, profit, and sales
 ## Files
 - Sales Dashboard.pbix
 - Sales Dashboard.pdf
+
+## Dashboard Preview
+
+### Executive Overview
+
+![Executive Overview](Executive_Overview.png)
+
+### Product Performance
+
+![Product Performance](Product_Performance.png)
+
+### Product Group Analysis
+
+![Product Group Analysis](Product_Group_Analysis.png)
